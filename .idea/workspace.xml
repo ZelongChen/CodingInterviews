@@ -1,233 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a18a7f33-d3b5-4b49-b598-d37b03acf6d4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/003-二维数组中的查找/FindInTwoDimensionsMatrix.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/004-替换空格/ReplaceSpace.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/005-从尾到头打印链表/PrintListFromTailToHead.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/006-重建二叉树/ReConstructBinaryTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/007-用两个栈实现队列/StackToQueue.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/009-斐波那契数列/Fibonacci.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/011-数值的整数次方/Power.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/015-链表中倒数第k个结点/FindKthNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/016-反转链表/ReverseLinkedList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/017-合并两个排序的链表/MergeSortedLinkedList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/018-树的子结构/HasSubTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/019-二叉树的镜像/MirrorBinaryTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/021-包含min函数的栈/MinStack.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/021-包含min函数的栈/MinStackWithTwoStacks.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/023-从上往下打印二叉树/PrintFromTopToBottom.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/024-二叉搜索树的后序遍历序列/VerifySquenceOfBST.java" />
-      <change beforePath="$PROJECT_DIR$/003-二维数组中的查找/bruteforce.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/003-二维数组中的查找/divide-leftdown.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/003-二维数组中的查找/divide-rightup.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/004-替换空格/replacespace.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/004-替换空格/replacespace2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/005-从尾到头打印链表/print_recursion.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/005-从尾到头打印链表/print_recursion2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/005-从尾到头打印链表/print_stack.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/006-重建二叉树/construct.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/007-用两个栈实现队列/stack2queue.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/008-旋转数组的最小数字/minnumber-On1.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/008-旋转数组的最小数字/minnumber-On2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/008-旋转数组的最小数字/minnumber.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/009-斐波那契数列/fibonacci_1.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/009-斐波那契数列/fibonacci_2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/009-斐波那契数列/fibonacci_logn.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/009-斐波那契数列/jumpFloor.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/009-斐波那契数列/jumpFloorII-2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/009-斐波那契数列/jumpFloorII-3.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/009-斐波那契数列/jumpFloorII.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/009-斐波那契数列/rectCover.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/010-二进制中1的个数/bitset.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/010-二进制中1的个数/numberof1_1.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/010-二进制中1的个数/numberof1_2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/010-二进制中1的个数/numberof1_3.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/010-二进制中1的个数/numberof1_4.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/011-数值的整数次方/power_1.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/011-数值的整数次方/power_2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/011-数值的整数次方/power_3.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/011-数值的整数次方/power_4.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/012-打印1到最大的N位数/print.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/012-打印1到最大的N位数/print_recursion.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/012-打印1到最大的N位数/print_recursion2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/012-打印1到最大的N位数/print_string.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/014-调整数组顺序使奇数位于偶数前面/buttle.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/014-调整数组顺序使奇数位于偶数前面/otherarray.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/014-调整数组顺序使奇数位于偶数前面/reOrderArray.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/015-链表中倒数第k个结点/findkth1.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/015-链表中倒数第k个结点/findkth2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/016-反转链表/reverselist1.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/016-反转链表/reverselist2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/017-合并两个排序的链表/merge.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/017-合并两个排序的链表/merge1.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/018-树的子结构/hassubtree.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/019-二叉树的镜像/mirror_in.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/019-二叉树的镜像/mirror_post.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/019-二叉树的镜像/mirror_pre.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/019-二叉树的镜像/mirror_re.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/020-顺时针打印矩阵/printmartix.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/020-顺时针打印矩阵/printmartix2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/021-包含min函数的栈/stack.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/022-栈的压入弹出序列/ispoporder1.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/022-栈的压入弹出序列/ispoporder2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/022-栈的压入弹出序列/ispoporder3.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/023-从上往下打印二叉树/levelorder.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/024-二叉搜索树的后序遍历序列/bruteforce.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/024-二叉搜索树的后序遍历序列/ispost_max.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/024-二叉搜索树的后序遍历序列/ispost_n.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/024-二叉搜索树的后序遍历序列/ispost_n2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/024-二叉搜索树的后序遍历序列/ispost_re.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/025-二叉树中和为某一值的路径/findpath_left_arg.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/025-二叉树中和为某一值的路径/findpath_left_static.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/025-二叉树中和为某一值的路径/findpath_sum_arg.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/025-二叉树中和为某一值的路径/findpath_sum_static.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/026-复杂链表的复制/bruteforce.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/026-复杂链表的复制/linknext.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/026-复杂链表的复制/map.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/027-二叉搜索树与双向链表/convert_re.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/027-二叉搜索树与双向链表/convert_re2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/027-二叉搜索树与双向链表/convert_re_static_error.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/027-二叉搜索树与双向链表/convert_stack.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/028-字符串的排列/next_permutation.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/028-字符串的排列/permutation.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/028-字符串的排列/permutation_error.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/029-数组中出现次数超过一半的数字/01-halfnum.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/029-数组中出现次数超过一半的数字/02-partition.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/029-数组中出现次数超过一半的数字/03-holdfield.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/029-数组中出现次数超过一半的数字/04-stlcount.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/029-数组中出现次数超过一半的数字/05-map.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/030-最小的K个数/01-sort.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/030-最小的K个数/02-heap.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/030-最小的K个数/03-partition.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/030-最小的K个数/04-multiset.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/031-连续子数组的最大和/01-bruteforce.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/031-连续子数组的最大和/02-dp.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/031-连续子数组的最大和/03-sum.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/031-连续子数组的最大和/04-sum.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/032-从1到n整数中1出现的次数/01-bruteforce.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/032-从1到n整数中1出现的次数/02-divide.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/032-从1到n整数中1出现的次数/02-divide2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/032-从1到n整数中1出现的次数/03-num.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/033-把数组排成最小的数/minnum.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/034-丑数/01-bruteforce.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/034-丑数/02-uglynum.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/034-丑数/02-uglynum_set.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/035-第一个只出现一次的字符位置/01-bruteforce.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/035-第一个只出现一次的字符位置/02-bitmap.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/035-第一个只出现一次的字符位置/03-count.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/036-数组中的逆序对/01-bruteforce.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/036-数组中的逆序对/02-bubblesort.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/036-数组中的逆序对/03-selectsort.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/036-数组中的逆序对/04-mergedivide.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/036-数组中的逆序对/05-hash.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/037-两个链表的第一个公共结点/01-bruteforce.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/037-两个链表的第一个公共结点/02-align_length.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/037-两个链表的第一个公共结点/02-align_stack.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/037-两个链表的第一个公共结点/02-align_strcat.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/037-两个链表的第一个公共结点/03-map.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/038-数字在排序数组中出现的次数/01-bruteforce.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/038-数字在排序数组中出现的次数/02-binarysearch.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/038-数字在排序数组中出现的次数/03-firstlast.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/038-数字在排序数组中出现的次数/03-firstlast_recursion.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/038-数字在排序数组中出现的次数/03-firstlast_stlbound.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/038-数字在排序数组中出现的次数/04-multiset.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/039-二叉树的深度/treedepth.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/039-平衡二叉树[附加]/isavlrecursion.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/040-数组中只出现一次的数字/find.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/040-数组中只出现一次的数字/find2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/041-和为S的两个数字/find.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/041-和为S的连续正数序列/find.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/042-左旋转字符串/01-rotate.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/042-左旋转字符串/01-rotate2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/042-左旋转字符串/02-reverse.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/042-左旋转字符串/02-reverse2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/042-翻转单词顺序列/01-reverse.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/042-翻转单词顺序列/02-reverse_stl.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/042-翻转单词顺序列/03-reverse_stack.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/042-翻转单词顺序列/04-reverse_temp.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/042-翻转单词顺序列/04-reverse_temp2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/044-扑克牌顺子/continuous_n.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/044-扑克牌顺子/continuous_sort.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/045-孩子们的游戏(圆圈中最后剩下的数)/joseph.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/045-孩子们的游戏(圆圈中最后剩下的数)/joseph_recursion.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/045-孩子们的游戏(圆圈中最后剩下的数)/lastremaining.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/046-求1+2+3+...+n/bitmulti.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/046-求1+2+3+...+n/constructor.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/046-求1+2+3+...+n/funcpoint.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/046-求1+2+3+...+n/functemplate.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/046-求1+2+3+...+n/macro.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/046-求1+2+3+...+n/recursion.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/046-求1+2+3+...+n/virtualfunc.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/047-不用加减乘除做加法/bit_add.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/047-不用加减乘除做加法/inline_asm.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/048-不能被继承的类/final.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/048-不能被继承的类/friend_class.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/048-不能被继承的类/friend_fun.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/048-不能被继承的类/static_func.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/048-不能被继承的类/static_value.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/049-把字符串转换成整数/myatoi.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/051-数组中重复的数字/0flag.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/051-数组中重复的数字/addlength.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/051-数组中重复的数字/flag.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/051-数组中重复的数字/hashset.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/051-数组中重复的数字/sort.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/051-数组中重复的数字/swap.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/052-构建乘积数组/multiply.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/053-正则表达式匹配/dfs.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/053-正则表达式匹配/dfs2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/053-正则表达式匹配/dp.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/054-表示数值的字符串/isnumeric.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/055-字符流中第一个不重复的字符/count.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/056-链表中环的入口结点/entry1.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/056-链表中环的入口结点/entry2.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/057-删除链表中重复的结点/count.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/057-删除链表中重复的结点/delete.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/058-二叉树的下一个结点/getnext.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/059-对称的二叉树/recursion.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/059-对称的二叉树/stack.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/060-把二叉树打印成多行/levelorder.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/061-按之字形顺序打印二叉树/levelorder_deque.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/061-按之字形顺序打印二叉树/levelorder_reverse.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/061-按之字形顺序打印二叉树/levelorder_stack.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/062-序列化二叉树/int_to_string.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/062-序列化二叉树/recursion_sstream.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/062-序列化二叉树/recursion_string.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/062-序列化二叉树/string_to_int.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/063-二叉搜索树的第K个结点/inorder_stack.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/063-二叉搜索树的第K个结点/recursion.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/064-数据流之中的中位数/heap.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/064-数据流之中的中位数/multiset.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/065-滑动窗口的最大值/bruteforce.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/065-滑动窗口的最大值/heap.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/065-滑动窗口的最大值/heap1.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/065-滑动窗口的最大值/maxqueue.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/065-滑动窗口的最大值/maxqueue_s.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/065-滑动窗口的最大值/stack_queue.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/ArrayConstruction/ArrayConstruction.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/DeleteDuplicatedListNode/DeleteDuplication.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/DuplicationInArray/FindDuplication.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/EntryNodeInListLoop/EntryNodeInListLoop.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/FirstCharacterInStream/FirstCharacterInStream.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/KthNodeInBST/KthNodeInBST.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/MaxInSlidingWindow/MaxInSlidingWindow.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/NextNodeInBinaryTrees/NextNode.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/NumericStrings/NumericString.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/PrintTreesInLines/PrintTreesInLines.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/PrintTreesInZigzag/PrintTreesInzigzag.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/RegularExpressionsMatching/RegularExpressions.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/RobotMove/RobotMove.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/SerializeBinaryTrees/SerializeBinaryTrees.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/StreamMedian/StreamMedian.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/StringPathInMatrix/StringPath.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/SymmetricalBinaryTree/SymmetricalBinaryTree.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/Utilities/BinaryTree.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ChineseCodingInterviewAppendix-master/Utilities/list.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/template/oj.cpp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/template/template.cpp" afterPath="" />
-    </list>
+    <list default="true" id="a18a7f33-d3b5-4b49-b598-d37b03acf6d4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -236,108 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/009-斐波那契数列/Fibonacci.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Power.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/011-数值的整数次方/Power.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindKthNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/015-链表中倒数第k个结点/FindKthNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/016-反转链表/ReverseLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeSortedLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/017-合并两个排序的链表/MergeSortedLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HasSubTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/018-树的子结构/HasSubTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MirrorBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/019-二叉树的镜像/MirrorBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinStackWithTwoStacks.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/021-包含min函数的栈/MinStackWithTwoStacks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintFromTopToBottom.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/023-从上往下打印二叉树/PrintFromTopToBottom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VerifySquenceOfBST.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/024-二叉搜索树的后序遍历序列/VerifySquenceOfBST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -351,6 +24,12 @@
         <entry key="$PROJECT_DIR$/../zuul" value="PREVIEW" />
       </map>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
@@ -383,66 +62,6 @@
             <path>
               <item name="CodingInterviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
-              <item name="006-重建二叉树" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
-              <item name="007-用两个栈实现队列" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
-              <item name="009-斐波那契数列" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
-              <item name="011-数值的整数次方" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
-              <item name="015-链表中倒数第k个结点" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
-              <item name="016-反转链表" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
-              <item name="017-合并两个排序的链表" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
-              <item name="018-树的子结构" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
-              <item name="019-二叉树的镜像" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
-              <item name="021-包含min函数的栈" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
-              <item name="023-从上往下打印二叉树" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingInterviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingInterviews" type="462c0819:PsiDirectoryNode" />
-              <item name="024-二叉搜索树的后序遍历序列" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -575,16 +194,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -593,11 +211,26 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -650,6 +283,254 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/009-斐波那契数列/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/011-数值的整数次方/Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/015-链表中倒数第k个结点/FindKthNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/016-反转链表/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/017-合并两个排序的链表/MergeSortedLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/021-包含min函数的栈/MinStackWithTwoStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/023-从上往下打印二叉树/PrintFromTopToBottom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/024-二叉搜索树的后序遍历序列/VerifySquenceOfBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019-二叉树的镜像/MirrorBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/018-树的子结构/HasSubTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="210" column="0" lean-forward="true" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003-二维数组中的查找/find.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003-二维数组中的查找/FindInTwoDimensionsMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004-替换空格/ReplaceSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005-从尾到头打印链表/PrintListFromTailToHead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/006-重建二叉树/ReConstructBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/007-用两个栈实现队列/StackToQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/009-斐波那契数列/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/011-数值的整数次方/Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/015-链表中倒数第k个结点/FindKthNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/016-反转链表/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/017-合并两个排序的链表/MergeSortedLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/018-树的子结构/HasSubTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/021-包含min函数的栈/MinStackWithTwoStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/023-从上往下打印二叉树/PrintFromTopToBottom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/024-二叉搜索树的后序遍历序列/VerifySquenceOfBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/019-二叉树的镜像/MirrorBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="13" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003-二维数组中的查找/find.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003-二维数组中的查找/FindInTwoDimensionsMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004-替换空格/ReplaceSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/005-从尾到头打印链表/PrintListFromTailToHead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/006-重建二叉树/ReConstructBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/007-用两个栈实现队列/StackToQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
