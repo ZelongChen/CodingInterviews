@@ -1,7 +1,3 @@
-package Offering;
-
-import LeetCode.Util.TreeNode;
-
 public class ReConstructBinaryTree {
 	public TreeNode reConstructBinaryTree(int [] pre, int [] in) {
 		if (pre == null || in == null) return null;

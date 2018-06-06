@@ -1,5 +1,3 @@
-package Offering;
-
 import java.util.Stack;
 
 public class StackToQueue {

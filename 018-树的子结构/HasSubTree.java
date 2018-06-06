@@ -1,7 +1,3 @@
-package Offering;
-
-import LeetCode.Util.TreeNode;
-
 public class HasSubTree {
 	public boolean HasSubtree(TreeNode root1,TreeNode root2) {
 		if (root2 == null) return false;

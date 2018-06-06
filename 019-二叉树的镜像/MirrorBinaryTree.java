@@ -1,7 +1,3 @@
-package Offering;
-
-import LeetCode.Util.TreeNode;
-
 public class MirrorBinaryTree {
 	public void MirrorWithRecursive(TreeNode root) {
 		if (root != null) {

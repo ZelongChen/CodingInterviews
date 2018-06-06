@@ -1,5 +1,3 @@
-package Offering;
-
 public class ReplaceSpace {
 	public String replaceSpace(StringBuffer str) {
 		for (int i = 0; i < str.length(); i++) {

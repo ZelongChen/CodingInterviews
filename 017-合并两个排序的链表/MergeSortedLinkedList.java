@@ -1,7 +1,3 @@
-package Offering;
-
-import LeetCode.Util.ListNode;
-
 public class MergeSortedLinkedList {
 	public ListNode MergeWithIteration(ListNode list1,ListNode list2) {
 		ListNode head = new ListNode(Integer.MIN_VALUE);

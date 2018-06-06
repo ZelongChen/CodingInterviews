@@ -1,7 +1,3 @@
-package Offering;
-
-import LeetCode.Util.ListNode;
-
 import java.util.Stack;
 
 public class ReverseLinkedList {

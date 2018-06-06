@@ -1,5 +1,3 @@
-package Offering;
-
 public class Power {
 	public double Power(double base, int exponent) {
 		if (base == 0 && exponent > 0) return 0;

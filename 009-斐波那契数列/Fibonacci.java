@@ -1,5 +1,3 @@
-package Offering;
-
 public class Fibonacci {
 	public int fibonacci(int n) {
 		if (n <= 1) {

@@ -1,5 +1,3 @@
-package Offering;
-
 public class VerifySquenceOfBST {
 	public boolean VerifySquenceOfBST(int [] sequence) {
 		if (sequence.length == 0) return false;

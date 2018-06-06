@@ -1,5 +1,3 @@
-package Offering;
-
 public class FindInTwoDimensionsMatrix {
 	public boolean FindBrutal(int target, int [][] array) {
 		if (array == null) return false;
